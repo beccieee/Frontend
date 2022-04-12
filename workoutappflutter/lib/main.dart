@@ -4,11 +4,11 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: Text("WorkOUT"),
+        title: Text("Hej hoppsan!"),
         centerTitle: true,
       ),
       body: Center(
-        child: Text("You deserve a break!", textScaleFactor: 2,),
+        child: Text("Logga in då!", textScaleFactor: 2,),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {  },
