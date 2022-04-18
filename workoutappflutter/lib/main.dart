@@ -4,6 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
+main
         title: Text("HEJ ALLA GULLISAR!"),
         centerTitle: true,
       ),
